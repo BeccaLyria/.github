@@ -1,6 +1,6 @@
 # Becca Lyria
 
-![image of becca](./banner.png)
+![image of becca](banner.png)
 
 This organisation contains all of the repositories related to Becca Lyria. The primary project here is the discord bot, with the related dashboard and documentation page.
 
