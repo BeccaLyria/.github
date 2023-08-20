@@ -14,15 +14,11 @@ If you would like to contribute to the project, you may create a Pull Request co
 
 Before interacting with our community, please read our [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Licensing
+## License
 
-Copyright (C) 2022 Naomi Carrigan
+This software is licensed under our [global software license](https://docs.nhcarrigan.com/#/license).
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
-
-The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
+Copyright held by Naomi Carrigan.
 
 ## Contact
 
